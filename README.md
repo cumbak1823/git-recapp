@@ -1,2 +1,2 @@
-# git_recap
+# git-recap
 for lesson only
