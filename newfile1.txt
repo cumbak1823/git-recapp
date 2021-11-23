@@ -1,0 +1,1 @@
+newfile1.txt is created for test only
